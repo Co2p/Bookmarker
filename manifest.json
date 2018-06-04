@@ -1,0 +1,22 @@
+{
+  "short_name": "Happy mobile",
+  "name": "Happy mobile",
+"icons": [{
+    "src": "images/touch/icon.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "images/touch/apple.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "images/touch/ms.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "images/touch/chrome.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "index.html?launcher=true"
+}
