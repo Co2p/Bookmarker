@@ -1,1 +1,1 @@
-body{margin:0;font-family:roboto,sans-serif}
+body{margin:0;font-family:roboto,sans-serif}.book-card{flex-direction:row}.book-card.mdl-card{width:100%}.book-card .cover-wrap{background:center no-repeat #46b6ac}.book-progress{width:100%}.cover-wrap{-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1}.details{-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1}.hidden{opacity:0}.mdl-grid{width:calc(100% - 16px)}.reveal{animation:stretch 1.5s ease-out}@keyframes stretch{0%{opacity:0}100%{opacity:1}}
